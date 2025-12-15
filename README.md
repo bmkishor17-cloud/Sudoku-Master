@@ -33,3 +33,7 @@ Sudoku Solver ; Game built with Python and wxPython using Backtracking, MRV heur
 1. Install dependencies: pip install wxPython
 2. Run the program: python sudoku_solver.py in the terminal
 
+# sample out put
+# solver mode
+
+
