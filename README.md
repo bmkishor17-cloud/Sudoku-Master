@@ -4,7 +4,7 @@ Sudoku Solver ; Game built with Python and wxPython using Backtracking, MRV heur
 # Solver mode
 - Solve any valid Sudoku puzzle
 - Optimized Backtracking algorithm with:
--   MRV (Minimum Remaining Values) ,
+-   .MRV (Minimum Remaining Values) ,
 -   heuristic,
 -   Bitmask-based constraint checking
 - Optional animated solving
