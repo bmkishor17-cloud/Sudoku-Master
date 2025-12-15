@@ -1,2 +1,2 @@
 # Sudoku-Master
-This is my first rrpository
+This is my first repository
